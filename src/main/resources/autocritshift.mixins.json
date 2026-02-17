@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "com.example.autocritshift",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [],
+  "client": [
+    "ClientAttackMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
